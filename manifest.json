@@ -1,0 +1,38 @@
+{
+  "manifest_version": 3,
+  "name": "WhatsApp Vendas — réplica independente",
+  "version": "1.4.4",
+  "description": "Painel lateral de mensagens, favoritos, imagens, arquivos e envio de áudio para WhatsApp Web.",
+  "permissions": [
+    "clipboardWrite"
+  ],
+  "content_scripts": [
+    {
+      "matches": [
+        "https://web.whatsapp.com/*"
+      ],
+      "js": [
+        "content.js"
+      ],
+      "run_at": "document_start"
+    }
+  ],
+  "web_accessible_resources": [
+    {
+      "resources": [
+        "sidebar.html",
+        "sidebar.js",
+        "sidebar.css",
+        "messages.json",
+        "images.json",
+        "files.json",
+        "injetor_pagina.js",
+        "images/*",
+        "files/*"
+      ],
+      "matches": [
+        "https://web.whatsapp.com/*"
+      ]
+    }
+  ]
+}

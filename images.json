@@ -1,0 +1,248 @@
+{
+  "IMAGENS": {
+    "Materiais": [
+      {
+        "nome": "BP Seguradora — Não deixe de andar protegido",
+        "url": "images/bp-seguradora-nao-deixe-de-andar-protegido.png"
+      },
+      {
+        "nome": "STG — A STG segue avançando",
+        "url": "images/stg-segue-avancando.png"
+      },
+      {
+        "nome": "BP Seguradora — Certificado Reclame Aqui",
+        "url": "images/reclame-aqui-certificado.png"
+      },
+      {
+        "nome": "STG — Assistência 24 horas",
+        "url": "images/stg-assistencia-24h-nova.png"
+      },
+      {
+        "nome": "Assistência 24 horas",
+        "url": "images/assistencia-24h.png"
+      },
+      {
+        "nome": "Etapas da validação de dados da vistoria",
+        "url": "images/vistoria-validacao.png"
+      },
+      {
+        "nome": "BP Seguradora — Reclame Aqui",
+        "url": "images/reclame-aqui-bp.png"
+      },
+      {
+        "nome": "Vamos fechar o seguro hoje?",
+        "url": "images/fechar-seguro-hoje.png"
+      },
+      {
+        "nome": "Feche o seguro comigo",
+        "url": "images/feche-seguro-comigo.png"
+      }
+    ],
+    "Memes para follow up": [
+      {
+        "nome": "Meme Follow-up 01",
+        "url": "images/memes-follow-up/meme-follow-up-01.jpg"
+      },
+      {
+        "nome": "Meme Follow-up 02",
+        "url": "images/memes-follow-up/meme-follow-up-02.jpg"
+      },
+      {
+        "nome": "Meme Follow-up 03",
+        "url": "images/memes-follow-up/meme-follow-up-03.jpg"
+      },
+      {
+        "nome": "Meme Follow-up 04",
+        "url": "images/memes-follow-up/meme-follow-up-04.jpg"
+      },
+      {
+        "nome": "Meme Follow-up 05",
+        "url": "images/memes-follow-up/meme-follow-up-05.jpg"
+      },
+      {
+        "nome": "Meme Follow-up 06",
+        "url": "images/memes-follow-up/meme-follow-up-06.jpg"
+      },
+      {
+        "nome": "Meme Follow-up 07",
+        "url": "images/memes-follow-up/meme-follow-up-07.jpg"
+      },
+      {
+        "nome": "Meme Follow-up 08",
+        "url": "images/memes-follow-up/meme-follow-up-08.jpg"
+      },
+      {
+        "nome": "Meme Follow-up 09",
+        "url": "images/memes-follow-up/meme-follow-up-09.jpg"
+      },
+      {
+        "nome": "Meme Follow-up 10",
+        "url": "images/memes-follow-up/meme-follow-up-10.jpg"
+      },
+      {
+        "nome": "Meme Follow-up 11",
+        "url": "images/memes-follow-up/meme-follow-up-11.jpg"
+      },
+      {
+        "nome": "Meme Follow-up 12",
+        "url": "images/memes-follow-up/meme-follow-up-12.jpg"
+      },
+      {
+        "nome": "Meme Follow-up 13",
+        "url": "images/memes-follow-up/meme-follow-up-13.jpg"
+      },
+      {
+        "nome": "Meme Follow-up 14",
+        "url": "images/memes-follow-up/meme-follow-up-14.jpg"
+      },
+      {
+        "nome": "Meme Follow-up 15",
+        "url": "images/memes-follow-up/meme-follow-up-15.jpg"
+      },
+      {
+        "nome": "Meme Follow-up 16",
+        "url": "images/memes-follow-up/meme-follow-up-16.jpg"
+      },
+      {
+        "nome": "Meme Follow-up 17",
+        "url": "images/memes-follow-up/meme-follow-up-17.jpg"
+      },
+      {
+        "nome": "Meme Follow-up 18",
+        "url": "images/memes-follow-up/meme-follow-up-18.jpg"
+      },
+      {
+        "nome": "Meme Follow-up 19",
+        "url": "images/memes-follow-up/meme-follow-up-19.jpg"
+      },
+      {
+        "nome": "Meme Follow-up 20",
+        "url": "images/memes-follow-up/meme-follow-up-20.jpg"
+      },
+      {
+        "nome": "Meme Follow-up 21",
+        "url": "images/memes-follow-up/meme-follow-up-21.jpg"
+      },
+      {
+        "nome": "Meme Follow-up 22",
+        "url": "images/memes-follow-up/meme-follow-up-22.jpg"
+      },
+      {
+        "nome": "Meme Follow-up 23",
+        "url": "images/memes-follow-up/meme-follow-up-23.jpg"
+      },
+      {
+        "nome": "Meme Follow-up 24",
+        "url": "images/memes-follow-up/meme-follow-up-24.jpg"
+      },
+      {
+        "nome": "Meme Follow-up 25",
+        "url": "images/memes-follow-up/meme-follow-up-25.jpg"
+      },
+      {
+        "nome": "Meme Follow-up 26",
+        "url": "images/memes-follow-up/meme-follow-up-26.jpg"
+      },
+      {
+        "nome": "Meme Follow-up 27",
+        "url": "images/memes-follow-up/meme-follow-up-27.jpg"
+      },
+      {
+        "nome": "Meme Follow-up 28",
+        "url": "images/memes-follow-up/meme-follow-up-28.jpg"
+      },
+      {
+        "nome": "Meme Follow-up 29",
+        "url": "images/memes-follow-up/meme-follow-up-29.jpg"
+      },
+      {
+        "nome": "Meme Follow-up 30",
+        "url": "images/memes-follow-up/meme-follow-up-30.jpg"
+      },
+      {
+        "nome": "Meme Follow-up 31",
+        "url": "images/memes-follow-up/meme-follow-up-31.jpg"
+      },
+      {
+        "nome": "Meme Follow-up 32",
+        "url": "images/memes-follow-up/meme-follow-up-32.jpg"
+      },
+      {
+        "nome": "Meme Follow-up 33",
+        "url": "images/memes-follow-up/meme-follow-up-33.jpg"
+      },
+      {
+        "nome": "Meme Follow-up 34",
+        "url": "images/memes-follow-up/meme-follow-up-34.jpg"
+      },
+      {
+        "nome": "Meme Follow-up 35",
+        "url": "images/memes-follow-up/meme-follow-up-35.jpg"
+      },
+      {
+        "nome": "Meme Follow-up 36",
+        "url": "images/memes-follow-up/meme-follow-up-36.jpg"
+      },
+      {
+        "nome": "Meme Follow-up 37",
+        "url": "images/memes-follow-up/meme-follow-up-37.jpg"
+      },
+      {
+        "nome": "Meme Follow-up 38",
+        "url": "images/memes-follow-up/meme-follow-up-38.jpg"
+      },
+      {
+        "nome": "Meme Follow-up 39",
+        "url": "images/memes-follow-up/meme-follow-up-39.jpg"
+      },
+      {
+        "nome": "Meme Follow-up 40",
+        "url": "images/memes-follow-up/meme-follow-up-40.jpg"
+      },
+      {
+        "nome": "Meme Follow-up 41",
+        "url": "images/memes-follow-up/meme-follow-up-41.jpg"
+      },
+      {
+        "nome": "Meme Follow-up 42",
+        "url": "images/memes-follow-up/meme-follow-up-42.jpg"
+      },
+      {
+        "nome": "Meme Follow-up 43",
+        "url": "images/memes-follow-up/meme-follow-up-43.jpg"
+      },
+      {
+        "nome": "Meme Follow-up 44",
+        "url": "images/memes-follow-up/meme-follow-up-44.jpg"
+      },
+      {
+        "nome": "Meme Follow-up 45",
+        "url": "images/memes-follow-up/meme-follow-up-45.jpg"
+      },
+      {
+        "nome": "Meme Follow-up 46",
+        "url": "images/memes-follow-up/meme-follow-up-46.jpg"
+      },
+      {
+        "nome": "Meme Follow-up 47",
+        "url": "images/memes-follow-up/meme-follow-up-47.jpg"
+      },
+      {
+        "nome": "Meme Follow-up 48",
+        "url": "images/memes-follow-up/meme-follow-up-48.jpg"
+      },
+      {
+        "nome": "Meme Follow-up 49",
+        "url": "images/memes-follow-up/meme-follow-up-49.jpg"
+      },
+      {
+        "nome": "Meme Follow-up 50",
+        "url": "images/memes-follow-up/meme-follow-up-50.jpg"
+      },
+      {
+        "nome": "Meme Follow-up 51",
+        "url": "images/memes-follow-up/meme-follow-up-51.jpg"
+      }
+    ]
+  }
+}
