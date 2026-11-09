@@ -36,7 +36,12 @@
       "💙 BP Seguradora! 💙\n\nOi João, Há um tempo você pediu uma cotação de seguro do seu veículo com a gente, mas não chegou a dar continuidade 🛡🚗\n\nAgora tivemos mudanças nos preços que podem te beneficiar\n\nPosso te enviar a nova proposta SEM COMPROMISSO?"
     ],
     "Inativos": [
-      "Em desenvolvimento..."
+      "Olá, [NOME]! Tudo bem?\n\nAqui é [SEU NOME], da Bem Corretora. Você já foi nosso cliente e estou entrando em contato para saber como está a situação do seu veículo e se podemos ajudá-lo novamente com o seguro.",
+      "Olá, [NOME]! Tudo bem?\n\nEstamos entrando em contato para saber se você teria interesse em voltar a contar com a proteção da Bem Corretora. Podemos verificar as opções disponíveis para o seu veículo!",
+      "Olá, [NOME]! Tudo bem?\n\nGostaríamos de entender o que levou você a não continuar com o seguro conosco. Sua opinião é importante e nos ajuda a melhorar nosso atendimento.",
+      "Olá, [NOME]! Tudo bem?\n\nGostaria de confirmar se você ainda está com o veículo que tinha segurado conosco ou se acabou trocando ou vendendo. Assim consigo entender melhor como podemos ajudá-lo.",
+      "Olá, [NOME]! Tudo bem?\n\nNa época, o valor do seguro foi um dos motivos para não continuar conosco? Se foi isso, podemos fazer uma nova análise e verificar se encontramos uma condição melhor.",
+      "Olá, [NOME]! Tudo bem?\n\nEstamos retomando o contato com antigos clientes da Bem Corretora e gostaria de oferecer uma nova análise para o seu veículo, sem compromisso. Podemos verificar as condições disponíveis atualmente!"
     ],
     "RD / Tráfego": [
       "Olá! Tudo bem? 💙\n\nMeu nome é *João*, sou consultor da *Bem Corretora*, corretora exclusiva da *BP Seguradora*.\n\nEstou entrando em contato porque você solicitou uma cotação de seguro para o seu veículo com a gente! 🚗\n\nVou te ajudar com esse processo. Para começarmos, me conta: **a cotação é para carro, moto ou caminhão?**",
